@@ -16,17 +16,23 @@ public class VariableSamples {
 		//to 0.0
 		double grade = 0.0;
 
-		System.out.println("Result: " + result);
-		System.out.println("Option: " + option);
-		System.out.println("Grade: " + grade);
+		int counter = 5;
+
+		//System.out.println("Result: " + result);
+		//System.out.println("Option: " + option);
+		//System.out.println("Grade: " + grade);
+		System.out.println("Grade: " + counter);
 
 		result = false;
 		option = 'J';
 		grade = 1.6;
+		counter--;
 
-		System.out.println("Result: " + result);
-		System.out.println("Option: " + option);
-		System.out.println("Grade: " + grade);
+
+		//System.out.println("Result: " + result);
+		//System.out.println("Option: " + option);
+		//System.out.println("Grade: " + grade);
+		System.out.println("Grade: " + counter);
 	}
 
 }
