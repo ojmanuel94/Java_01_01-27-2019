@@ -6,4 +6,4 @@ This is Java 01.
 - javac Hello.java
 
 ## How to Run 
-- java Hello.java
+- java Hello
