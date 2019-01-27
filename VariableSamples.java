@@ -19,6 +19,14 @@ public class VariableSamples {
 		System.out.println("Result: " + result);
 		System.out.println("Option: " + option);
 		System.out.println("Grade: " + grade);
+
+		result = false;
+		option = 'J';
+		grade = 1.6;
+
+		System.out.println("Result: " + result);
+		System.out.println("Option: " + option);
+		System.out.println("Grade: " + grade);
 	}
 
 }
